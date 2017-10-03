@@ -14,13 +14,13 @@
 	    },
 	    "dataset": {
 	        "@type": "Dataset",
-	        "name": “chebi”,
+	        "name": "chebi",
 	        "description": "Chemical Entities of Biological Interest (ChEBI) is a freely available dictionary of molecular entities focused on ‘small’ chemical compounds.",
 	        "url": "https://www.ebi.ac.uk/chebi",
 	        "keywords": [
 	            "small molecules",
 	            "compounds",
-		          "ontology"
+		    "ontology"
 	        ]
 	    },    
 	    "sourceOrganization": {
